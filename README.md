@@ -1,3 +1,4 @@
-# Um site html para presentear uma das moças mais lindas desse Brasil!
+# Projeto de site desenvolvido no curso de GitHub
+ Um repositório para treinar Branches, merge e afins e hospedar um projeto de site dentro do Github. Foi desenvlvido durante o curso do Gustavo Guanabara
 
-Contém fotos que trazem boas lembranças pra nós, uma playlist de músicas no spotfy e uma mensagem carinhosa que saiu do coração <3
+Para acessar o site simples criado e hospedado no GitHub pages, [clique aqui](https://takeshi-mi.github.io/Projeto-de-site-desenvolvido-no-curso-de-GitHub/)
